@@ -4,11 +4,22 @@
 h1 {
     text-align: center;
     background-color: paleturquoise;
-    color:darkslategrey
+    color:darkslategrey;
+    font-size:38px
 }
 
 a:link,
 a:visited {
     color:darkslategray;
     font-size: 20px;
+}
+
+li,
+p {
+    font-size: 20px;
+}
+
+h2 {
+    color: darkslategrey;
+    font-size: 28px;
 }
