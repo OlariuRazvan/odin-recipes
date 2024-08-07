@@ -1,3 +1,14 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 h1 {
     text-align: center;
+    background-color: paleturquoise;
+    color:darkslategrey
+}
+
+a:link,
+a:visited {
+    color:darkslategray;
+    font-size: 20px;
 }
