@@ -23,3 +23,10 @@ h2 {
     color: darkslategrey;
     font-size: 28px;
 }
+
+li{
+    margin: 10px;
+}
+.home {
+    padding: 5px;
+}
